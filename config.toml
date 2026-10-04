@@ -1,0 +1,13 @@
+[theme]
+base="dark"
+primaryColor="#00f0ff"
+backgroundColor="#05010f"
+secondaryBackgroundColor="#0d0221"
+textColor="#e0f7ff"
+font="monospace"
+
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+enableXsrfProtection = false
